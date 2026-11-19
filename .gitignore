@@ -1,0 +1,17 @@
+# Binarios y objetos compilados
+*.o
+*.obj
+*.so
+*.a
+*.exe
+*.dll
+wow_emu_v2
+
+# Logs y salidas temporales
+*.log
+v2_run.log
+
+# Carpetas de compilación y sistema
+build/
+.DS_Store
+__pycache__/
